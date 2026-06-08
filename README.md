@@ -8,7 +8,7 @@ My focus stays on performance, correctness, reproducibility, and cost efficiency
 
 ---
 
-🎓 MS in Data Science from UW-Madison (GPA 3.9, May 2026)
+🎓 MS in Data Science from UW-Madison (GPA 3.9, May 2026)<br>
 💼 Actively open to Data Engineer, Analytics Engineer, and Data Analyst roles where scale, data quality, and production rigor are non-negotiable.
 
 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · [Email](manasijgosavi@gmail.com)
@@ -46,10 +46,10 @@ Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) ·
 
 **Data Engineer Intern · i360** · Arlington, VA · Jun 2025 – Jan 2026
 
-▸ ETL pipeline (Docker + AWS Batch + Airflow) processing 150M+ voter records — cut runtime 90%
-▸ Cross-cloud BigQuery → Redshift pipeline processing 9M+ records/day via S3 Parquet staging
-▸ Migrated 15 Pentaho pipelines to AWS data lake (S3 → Glue → Iceberg), saving 25% compute costs
-▸ Built ELT pipeline ingesting 8K+ IRS documents via REST APIs at 96% accuracy with Regex + NER
+▸ ETL pipeline (Docker + AWS Batch + Airflow) processing 150M+ voter records — cut runtime 90%  
+▸ Cross-cloud BigQuery → Redshift pipeline processing 9M+ records/day via S3 Parquet staging  
+▸ Migrated 15 Pentaho pipelines to AWS data lake (S3 → Glue → Iceberg), saving 25% compute costs  
+▸ Built ELT pipeline ingesting 8K+ IRS documents via REST APIs at 96% accuracy with Regex + NER<br>
 ▸ Developed GenAI entity-resolution pipeline mapping 100K+ invoiced customers to parent entities
 
 ---
