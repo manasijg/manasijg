@@ -4,8 +4,7 @@ I build data pipelines that don't break at 3am.
 
 Data Engineer with 3.5 years of professional experience building scalable ETL pipelines and AI-powered data systems at Capgemini and i360, processing everything from voter records to sales transactions. MS in Data Science from UW-Madison (GPA 3.9, May 2026).
 
-📍 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · manasijgosavi@gmail.com
-Open to Data Engineer, Analytics Engineer, and Data Analyst roles.
+Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · [Email](manasijgosavi@gmail.com)
 
 ---
 
@@ -79,4 +78,4 @@ Open to Data Engineer, Analytics Engineer, and Data Analyst roles.
 
 ---
 
-*Open to full-time roles*
+*Open to Data Engineer, Analytics Engineer, and Data Analyst roles*
