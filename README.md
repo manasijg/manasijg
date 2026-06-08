@@ -1,6 +1,6 @@
 # Hi, I'm Manasi 👋
 
-I build data pipelines that don't break at 3am. 🛠️
+I build data pipelines that don't break at 3am 🛠️
 
 My strength is taking high-volume, messy data and turning it into scalable, production-grade systems with clear SLAs, failure recovery, PII controls, and schema consistency built in from day one. I've worked across batch and streaming architectures, multi-cloud environments (AWS, Azure, GCP), and systems where a pipeline failure meant real business impact — a $6.9M media pipeline, 150M+ voter records, 9M+ records/day across clouds.
 
@@ -75,7 +75,7 @@ Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) ·
 
 **University of Wisconsin-Madison** — MS Data Science · GPA 3.9/4 · Awarded Scholarship · Sept 2024 – May 2026
 
-**University of Mumbai** — B.E. Information Technology · GPA 4.0/4 · Aug 2017 – May 2021
+**University of Mumbai** — B.E. Information Technology · GPA 4/4 · Aug 2017 – May 2021
 
 ---
 
