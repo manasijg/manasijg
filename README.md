@@ -2,7 +2,15 @@
 
 I build data pipelines that don't break at 3am.
 
-Data Engineer with 3.5 years of professional experience building scalable ETL pipelines and AI-powered data systems at Capgemini and i360, processing everything from voter records to sales transactions. MS in Data Science from UW-Madison (GPA 3.9, May 2026).
+My strength is taking high-volume, messy data and turning it into scalable, production-grade systems with clear SLAs, failure recovery, PII controls, and schema consistency built in from day one. 
+
+I've worked across batch and streaming architectures, multi-cloud environments (AWS, Azure, GCP), and systems where a pipeline failure meant real business impact: a $6.9M media pipeline, 150M+ voter records, 9M+ records/day across clouds.
+
+My focus stays on performance, correctness, reproducibility, and cost efficiency. I don't just build pipelines. I build systems that are observable, maintainable, and accountable.
+
+MS in Data Science from UW-Madison (GPA 3.9, May 2026).
+
+Actively open to Data Engineer, Analytics Engineer, and Data Analyst roles where scale, data quality, and production rigor are non-negotiable.
 
 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · [Email](manasijgosavi@gmail.com)
 
