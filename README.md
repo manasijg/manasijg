@@ -1,6 +1,6 @@
 # Hi, I'm Manasi 👋
 
-**Data Engineer · MS Data Science @ UW-Madison · AWS · Azure · PySpark · Airflow · Building ETL pipelines that don't break at 3am 🛠️**
+**Data Engineer · MS Data Science @ UW-Madison · AWS · Azure · Building Scalable ETL Pipelines & AI-Powered Data Systems 🛠️**
 
 📍 Seattle, WA  |  [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/)  |  manasijgosavi@gmail.com
 
@@ -69,7 +69,7 @@
 
 ## Beyond the data
 
-🩰 Kathak dancer  ·  🤸 National gymnast  ·  🧘 Yoga practitioner  ·  📚 Avid reader  ·  ☕ Seattle explorer
+🩰 Kathak dancer  ·  🤸 National Champion in Gymnastics  ·  🧘 Yoga Instructor  ·  📚 Avid reader  ·  ☕ Seattle explorer
 
 ---
 
