@@ -1,16 +1,11 @@
 # Hi, I'm Manasi 👋
 
-**Data Engineer · MS Data Science @ UW-Madison · AWS · Azure · Building Scalable ETL Pipelines & AI-Powered Data Systems 🛠️**
+I build data pipelines that don't break at 3am.
 
-📍 Seattle, WA  |  [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/)  |  manasijgosavi@gmail.com
+Data Engineer with 3.5 years of professional experience building scalable ETL pipelines and AI-powered data systems at Capgemini and i360, processing everything from voter records to sales transactions. MS in Data Science from UW-Madison (GPA 3.9, May 2026).
 
----
-
-## By the numbers
-
-| 3+ years | 150M+ records | 90% runtime cut |
-|:---:|:---:|:---:|
-| in data engineering | processed | on pipeline runtime |
+📍 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · manasijgosavi@gmail.com
+Open to Data Engineer, Analytics Engineer, and Data Analyst roles.
 
 ---
 
@@ -44,26 +39,37 @@
 ## Experience
 
 **Data Engineer Intern · i360** · Arlington, VA · Jun 2025 – Jan 2026
+
 ▸ ETL pipeline (Docker + AWS Batch + Airflow) processing 150M+ voter records — cut runtime 90%
 ▸ Cross-cloud BigQuery → Redshift pipeline processing 9M+ records/day via S3 Parquet staging
 ▸ Migrated 15 Pentaho pipelines to AWS data lake (S3 → Glue → Iceberg), saving 25% compute costs
+▸ Built ELT pipeline ingesting 8K+ IRS documents via REST APIs at 96% accuracy with Regex + NER
+▸ Developed GenAI entity-resolution pipeline mapping 100K+ invoiced customers to parent entities
+
+---
 
 **Data Analyst · UW-Madison College of Engineering** · Madison, WI · Apr 2025 – Jun 2026
+
 ▸ Tripled CTR from 2% → 9% through A/B testing and EDA on engagement data
 ▸ Built Power BI dashboard for $60K campaign with self-serve conversion and spend reporting
 
+---
+
 **Data Engineer · Capgemini** · Mumbai, India · Aug 2021 – Jul 2024
+
 ▸ Optimized 25 ADF pipelines (7M+ records/month), cutting runtime 9 hours and saving 15%
 ▸ Migrated 300+ tables SQL Server → Snowflake, reducing query time 25% and refresh time 40%
 ▸ Automated error monitoring for 200+ ETL pipelines, cutting bug resolution time 70%
+▸ Migrated 8 on-premise SSIS workflows to Azure Data Factory, improving reliability by 60%
+▸ Developed SQL stored procedures evaluating Data Quality KPIs across 70+ regions
 
 ---
 
 ## Education
 
-**University of Wisconsin-Madison** — MS Data Science · GPA 3.9/4 · Merit Scholarship · 2024–2026
+**University of Wisconsin-Madison** — MS Data Science · GPA 3.9/4 · Awarded Scholarship · Sept 2024 – May 2026
 
-**University of Mumbai** — B.E. Information Technology · GPA 4.0/4 · 2017–2021
+**University of Mumbai** — B.E. Information Technology · GPA 4.0/4 · Aug 2017 – May 2021
 
 ---
 
@@ -73,4 +79,4 @@
 
 ---
 
-*Open to full-time roles · Seattle, WA · manasijgosavi@gmail.com*
+*Open to full-time roles*
