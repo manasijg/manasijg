@@ -11,7 +11,7 @@ Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) ·
 ## What I'm working on
 
 - **[Real-Time Energy Grid Streaming Pipeline](./link)** — 1M+ time-series events/day · sub-3-min anomaly detection · Delta Lake medallion architecture · `EMR` `Kinesis` `PySpark` `Delta Lake` `S3`
-- **[Hybrid Neural Network — EEG Seizure Detection](./link)** — 94% accuracy classifying harmful brain activity from EEG signals · `PyTorch` `XGBoost` `Signal Processing`
+- **[Hybrid Neural Network — EEG Seizure Detection](./https://github.com/manasijg/brain-waves-classification)** — 94% accuracy classifying harmful brain activity from EEG signals · `PyTorch` `XGBoost` `Signal Processing`
 - **[Graph-Based Entity Matching Pipeline](./link)** — Deduplicates 10K+ research publications using Neo4j graph modeling · `Neo4j` `Cypher` `Python`
 
 ---
