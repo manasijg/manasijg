@@ -9,7 +9,7 @@ My focus stays on performance, correctness, reproducibility, and cost efficiency
 ---
 
 🎓 MS in Data Science from UW-Madison (GPA 3.9, May 2026)<br>
-💼 Actively open to Data Engineer, Analytics Engineer, and Data Analyst roles where scale, data quality, and production rigor are non-negotiable.
+💼 Actively open to Data Engineer and Analytics Engineer roles where scale, data quality, and production rigor are non-negotiable.
 
 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) · [Email](manasijgosavi@gmail.com)
 
@@ -49,24 +49,24 @@ Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) ·
 ▸ ETL pipeline (Docker + AWS Batch + Airflow) processing 150M+ voter records — cut runtime 90%  
 ▸ Cross-cloud BigQuery → Redshift pipeline processing 9M+ records/day via S3 Parquet staging  
 ▸ Migrated 15 Pentaho pipelines to AWS data lake (S3 → Glue → Iceberg), saving 25% compute costs  
-▸ Built ELT pipeline ingesting 8K+ IRS documents via REST APIs at 96% accuracy with Regex + NER<br>
+▸ Built ELT pipeline ingesting 8K+ IRS documents via REST APIs at 96% accuracy with Regex + NER  
 ▸ Developed GenAI entity-resolution pipeline mapping 100K+ invoiced customers to parent entities
 
 ---
 
 **Data Analyst · UW-Madison College of Engineering** · Madison, WI · Apr 2025 – Jun 2026
 
-▸ Tripled CTR from 2% → 9% through A/B testing and EDA on engagement data
+▸ Tripled CTR from 2% → 9% through A/B testing and EDA on engagement data  
 ▸ Built Power BI dashboard for $60K campaign with self-serve conversion and spend reporting
 
 ---
 
 **Data Engineer · Capgemini** · Mumbai, India · Aug 2021 – Jul 2024
 
-▸ Optimized 25 ADF pipelines (7M+ records/month), cutting runtime 9 hours and saving 15%
-▸ Migrated 300+ tables SQL Server → Snowflake, reducing query time 25% and refresh time 40%
-▸ Automated error monitoring for 200+ ETL pipelines, cutting bug resolution time 70%
-▸ Migrated 8 on-premise SSIS workflows to Azure Data Factory, improving reliability by 60%
+▸ Optimized 25 ADF pipelines (7M+ records/month), cutting runtime 9 hours and saving 15%  
+▸ Migrated 300+ tables SQL Server → Snowflake, reducing query time 25% and refresh time 40%  
+▸ Automated error monitoring for 200+ ETL pipelines, cutting bug resolution time 70%  
+▸ Migrated 8 on-premise SSIS workflows to Azure Data Factory, improving reliability by 60%  
 ▸ Developed SQL stored procedures evaluating Data Quality KPIs across 70+ regions
 
 ---
@@ -82,7 +82,3 @@ Seattle, WA · [LinkedIn](https://www.linkedin.com/in/manasi-jaywant-gosavi/) ·
 ## Beyond the data
 
 🩰 Kathak dancer  ·  🤸 National Champion in Gymnastics  ·  🧘 Yoga Instructor  ·  📚 Avid reader  ·  ☕ Seattle explorer
-
----
-
-*Open to Data Engineer, Analytics Engineer, and Data Analyst roles*
